@@ -10,3 +10,5 @@ project buat ngerjain soal - soal Matlan 1
 - Optimasi satu variabel menggunakkan Golden Search Method 
 - Optimasi dengan persamaan hambatan (Lagrange Method)
 - Optimasi dengan pertidaksamaan hambatan (KKT method) 
+
+to be continue
